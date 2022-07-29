@@ -3,6 +3,8 @@ Hi There, My Name is Raffi, Im BackEnd Developer
 
 ![Metrics](https://metrics.lecoq.io/rapiariep?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rapiariep.rapiariep)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/HjxDev#0001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rapiariep) 
