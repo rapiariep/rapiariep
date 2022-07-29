@@ -1,7 +1,8 @@
 # 👋 About Me:
 Hi, My Names is Raffi Arief Akbar, Im FrontEnd Developer
 
-![Profile Views Counter](https://komarev.com/ghpvc/?username=rapiariep&&style=flat&color=green)  
+![Profile Views Counter](https://komarev.com/ghpvc/?username=rapiariep&&style=flat&color=green)
+
 ![Metrics](https://metrics.lecoq.io/rapiariep?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 # 📱 Social Media:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/HjxDev#0001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rapiariep) 
