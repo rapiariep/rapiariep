@@ -1,6 +1,7 @@
 # 💻 About Me:
 Hi There, My Name is Raffi, Im BackEnd Developer
-![Pengunjung](https://visitor-badge.glitch.me/badge?page_id=rapiariep.rapiariep)
+
+<h2> My GitHub Stats <img src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 
 ## 🌐 Socials:
