@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi There, My Name is Raffi, Im BackEnd Developer
+![Pengunjung](https://visitor-badge.glitch.me/badge?page_id=rapiariep.rapiariep)
 
 
 ## 🌐 Socials:
