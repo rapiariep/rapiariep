@@ -1,4 +1,5 @@
-# Hi, My Names is Raffi Arief Akbar, Im FrontEnd Developer
+# 🔥 Hi
+Hi, My Names is Raffi Arief Akbar, Im FrontEnd Developer
 
 # 💻 Skills & Experience
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
