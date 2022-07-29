@@ -1,4 +1,5 @@
-Hi There, My Name is Raffi, Im BackEnd Developer
+# 🙏 About Me:
+Hi, My Names is Raffi Arief Akbar, Im FrontEnd Developer
 
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=rapiariep&&style=flat&color=green)  
 ![Metrics](https://metrics.lecoq.io/rapiariep?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
@@ -14,5 +15,5 @@ Hi There, My Name is Raffi, Im BackEnd Developer
 ![](https://github-profile-trophy.vercel.app/?username=rapiariep&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=rapiariep&icon=0&color=0)](https://visitcount.itsvg.in)
-# 💰 Thanks for Coffe
+# 💰 Thanks for Support:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rapiariep) 
