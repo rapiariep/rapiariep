@@ -10,6 +10,7 @@ Hi, My Names is Raffi Arief Akbar, Im FrontEnd Developer
 [![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg/4CpjK2vveY)
 [![Spotify](https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
 </h2>
+
 # 💻 Skills & Experience
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
