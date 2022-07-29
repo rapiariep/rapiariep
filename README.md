@@ -1,4 +1,3 @@
-# 💻 About Me:
 Hi There, My Name is Raffi, Im BackEnd Developer
 
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=rapiariep&&style=flat&color=green)  
