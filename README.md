@@ -1,7 +1,7 @@
 # 🔥 Hi
 Hi, My Names is Raffi Arief Akbar, Im FrontEnd Developer
 <h2 align='left'>
-  Im Using for Developing:-<br/><br/>
+  Im Using for Developing<br/><br/>
   
 [![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
 [![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg/3mvFn3ATJt)
